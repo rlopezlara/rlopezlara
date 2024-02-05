@@ -1,0 +1,23 @@
+<h1 align="center">Hello! I'm Rodrigo Lopez</h1>
+<h2 align="center">I am a student of computer programming third semester at Georgian College</h2>
+ 
+- 👀 I’m interested in
+- 📫 How to reach me: rdg.lopez89@gmail.com
+- 🌱 I’m currently learning Asp.Net, Advanced Java, JavaScript and Microsoft Azure
+- ⚡ Fun fact: I like working out, like cycling, running, swimming, playing table tennis and basketball
+
+<br />
+
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,php,bootstrap,java,mysql,python,arduino,cs,github,figma,eclipse,azure)](https://skillicons.dev)
+
+
+
+<br />
+
+<!---
+rlopezlara/rlopezlara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
