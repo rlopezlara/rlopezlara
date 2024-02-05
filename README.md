@@ -1,7 +1,6 @@
 <h1 align="center">Hello! I'm Rodrigo Lopez</h1>
 <h2 align="center">I am a student of computer programming third semester at Georgian College</h2>
  
-- 👀 I’m interested in
 - 📫 How to reach me: rdg.lopez89@gmail.com
 - 🌱 I’m currently learning Asp.Net, Advanced Java, JavaScript and Microsoft Azure
 - ⚡ Fun fact: I like working out, like cycling, running, swimming, playing table tennis and basketball
