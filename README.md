@@ -6,7 +6,8 @@
 - ⚡ Fun fact: I like working out, like cycling, running, swimming, playing table tennis and basketball
 
 <br />
-
+### :chart_with_upwards_trend: The STATS 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rlopezlara&show_icons=true&count_private=true&theme=tokyonight) 
 
 ### Languages and Tools:
 
