@@ -2,7 +2,7 @@
 <h2 align="center">I am a student of computer programming third semester at Georgian College</h2>
  
 - 📫 How to reach me: rdg.lopez89@gmail.com
-- 🌱 I’m currently learning about Asp.Net, Advanced Java, JavaScript and Microsoft Azure
+- 🌱 I'm passionate about data analysis, problem-solving, optimization, and web development.
 - ⚡ Fun fact: I like working out, like cycling, running, swimming, playing table tennis and basketball
 
 <br />
