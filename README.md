@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Rodrigo Lopez</h1>
-<h2 align="center">I am a student of computer programming Last semester at Georgian College</h2>
+<h2 align="center">Graduated student of computer programming at Georgian College</h2>
  
 - 📫 How to reach me: rdg.lopez89@gmail.com
 - 🌱 I'm passionate about data analysis, problem-solving, optimization, and web development.
